@@ -1,6 +1,6 @@
 ### Hi there, I'm [Alec](https://adibarra.com) 👋
 
-I’m a student studying Electrical Engineering.<br>
+I’m a student studying Computer Science.<br>
 Ever since I was little, I’ve loved learning all about computers and programming.<br>
 I am currently learning a lot about Web Development, specifically Vite+Vue.js.<br>
 However, I also enjoy learning about Machine Learning.<br>
